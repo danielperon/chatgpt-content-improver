@@ -1,0 +1,241 @@
+[18-Dec-2024 14:15:33 UTC] PHP Warning:  Undefined array key "post_content" in /Users/danielperon/Sites/wordpress/wp-content/plugins/chatgpt-content-improver/chatgpt-content-improver.php on line 122
+[18-Dec-2024 14:15:34 UTC] stdClass Object
+(
+    [error] => stdClass Object
+        (
+            [message] => You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+            [type] => insufficient_quota
+            [param] => 
+            [code] => insufficient_quota
+        )
+
+)
+
+[18-Dec-2024 14:15:45 UTC] PHP Warning:  Undefined array key "post_content" in /Users/danielperon/Sites/wordpress/wp-content/plugins/chatgpt-content-improver/chatgpt-content-improver.php on line 122
+[18-Dec-2024 14:15:46 UTC] stdClass Object
+(
+    [error] => stdClass Object
+        (
+            [message] => You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+            [type] => insufficient_quota
+            [param] => 
+            [code] => insufficient_quota
+        )
+
+)
+
+[18-Dec-2024 14:18:53 UTC] PHP Warning:  Undefined array key "post_content" in /Users/danielperon/Sites/wordpress/wp-content/plugins/chatgpt-content-improver/chatgpt-content-improver.php on line 122
+[18-Dec-2024 14:18:54 UTC] stdClass Object
+(
+    [error] => stdClass Object
+        (
+            [message] => This is a chat model and not supported in the v1/completions endpoint. Did you mean to use v1/chat/completions?
+            [type] => invalid_request_error
+            [param] => model
+            [code] => 
+        )
+
+)
+
+[18-Dec-2024 14:28:29 UTC] stdClass Object
+(
+    [id] => chatcmpl-AfpKGI2ZqTCNMxsGpfqr8nTFtEHVn
+    [object] => chat.completion
+    [created] => 1734532108
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [index] => 0
+                    [message] => stdClass Object
+                        (
+                            [role] => assistant
+                            [content] => Welcome to WordPress! This is your first post. Feel free to edit or delete it, and then begin writing your own content.
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => stdClass Object
+        (
+            [prompt_tokens] => 41
+            [completion_tokens] => 26
+            [total_tokens] => 67
+            [prompt_tokens_details] => stdClass Object
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => stdClass Object
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[18-Dec-2024 14:33:23 UTC] Automatic updates starting...
+[18-Dec-2024 14:33:23 UTC]   Automatic plugin updates starting...
+[18-Dec-2024 14:33:23 UTC]   Automatic plugin updates complete.
+[18-Dec-2024 14:33:23 UTC]   Automatic theme updates starting...
+[18-Dec-2024 14:33:23 UTC]   Automatic theme updates complete.
+[18-Dec-2024 14:33:23 UTC] Automatic updates complete.
+[18-Dec-2024 14:47:00 UTC] stdClass Object
+(
+    [id] => chatcmpl-AfpcCV5mUeLVGqSjDtWpbgIbc0UdZ
+    [object] => chat.completion
+    [created] => 1734533220
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [index] => 0
+                    [message] => stdClass Object
+                        (
+                            [role] => assistant
+                            [content] => Welcome to WordPress! Congratulations on creating your first post. Feel free to edit or delete it, and then begin writing your content.
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => stdClass Object
+        (
+            [prompt_tokens] => 41
+            [completion_tokens] => 26
+            [total_tokens] => 67
+            [prompt_tokens_details] => stdClass Object
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => stdClass Object
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[18-Dec-2024 14:50:37 UTC] stdClass Object
+(
+    [id] => chatcmpl-AfpfheOAS28QdSEWegrHP51qm6wgQ
+    [object] => chat.completion
+    [created] => 1734533437
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [index] => 0
+                    [message] => stdClass Object
+                        (
+                            [role] => assistant
+                            [content] => Welcome to WordPress! Congratulations on creating your first post. Feel free to edit or delete it as needed, and then you can begin writing your content. Happy blogging!
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => stdClass Object
+        (
+            [prompt_tokens] => 41
+            [completion_tokens] => 33
+            [total_tokens] => 74
+            [prompt_tokens_details] => stdClass Object
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => stdClass Object
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
+[18-Dec-2024 15:03:13 UTC] stdClass Object
+(
+    [id] => chatcmpl-AfprrJ9YQ7B8IY2lFHSKpCYWFOLBo
+    [object] => chat.completion
+    [created] => 1734534191
+    [model] => gpt-3.5-turbo-0125
+    [choices] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [index] => 0
+                    [message] => stdClass Object
+                        (
+                            [role] => assistant
+                            [content] => Hello, I am sharing this post to illustrate the functionality of the plugin. This is a sample intended to demonstrate my proficiency in WordPress programming.
+
+You might be wondering, did I write all of this code myself? The answer is a mix of yes and no. Throughout my programming career, it has been a common practice to seek out references. Back in 2001, we relied on comprehensive resources like the PHP, JavaScript, HTML "bibles," which were enormous books updated annually.
+
+As the internet era progressed, developers transitioned from scouring forums to websites, then to search engines like Google, StackOverflow, and now platforms like ChatGPT. The landscape of software development continues to evolve, with new paths and tools constantly emerging.
+                            [refusal] => 
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => stdClass Object
+        (
+            [prompt_tokens] => 159
+            [completion_tokens] => 148
+            [total_tokens] => 307
+            [prompt_tokens_details] => stdClass Object
+                (
+                    [cached_tokens] => 0
+                    [audio_tokens] => 0
+                )
+
+            [completion_tokens_details] => stdClass Object
+                (
+                    [reasoning_tokens] => 0
+                    [audio_tokens] => 0
+                    [accepted_prediction_tokens] => 0
+                    [rejected_prediction_tokens] => 0
+                )
+
+        )
+
+    [system_fingerprint] => 
+)
+
